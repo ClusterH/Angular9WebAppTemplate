@@ -1,6 +1,6 @@
 #Angular9 Template
 
-Material Design Admin Template with Angular 8 and Angular Material
+Material Design Admin Template with Angular 9 and Angular Material
 
 ## Development server
 
